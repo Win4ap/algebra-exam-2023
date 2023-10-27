@@ -41,7 +41,7 @@ jobs:
         with:
           # Это значение используется как ключ в хранилище
 
-          name: algeblaColloquium
+          name: algebraColloquium
 
           # Путь до собранного pdf. Может содержать «*», «**»
 
