@@ -1,6 +1,4 @@
-Так как билетов нет, было бы славно просто сюда закинуть конспекты или общий тех с ними.  
-Первый случай - сделайте, пожалуйста, вашу собственную папку и пуште.  
-Второй - так же как и с алгосами, но организованнее.  
+Актуальный PDF - https://github.com/Win4ap/algebra-exam-2023/releases/download/release/algebraColloquium.pdf  
 
 https://1drv.ms/b/s!AjgGg7TYlTsJp3WVSWCSaMm0yr5S?e=2XVMjX - конспект Таисии Чегодаевой (Очень удобно СЛУШАТЬ лекцию и глазками ориентироваться на конспект)  
 https://youtube.com/playlist?list=PLar7PGcxZshQWt2jmD2goVxzFokpGpDqJ&si=jm_saUkGegBi0pMi - записи лекций
